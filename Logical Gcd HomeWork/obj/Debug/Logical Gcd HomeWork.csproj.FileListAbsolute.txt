@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\Logical Gcd HomeWork\Logical Gcd HomeWork\bin\Debug\Logical Gcd HomeWork.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Logical Gcd HomeWork\Logical Gcd HomeWork\bin\Debug\Logical Gcd HomeWork.exe
+c:\users\dell\documents\visual studio 2015\Projects\Logical Gcd HomeWork\Logical Gcd HomeWork\bin\Debug\Logical Gcd HomeWork.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Logical Gcd HomeWork\Logical Gcd HomeWork\obj\Debug\Logical Gcd HomeWork.exe
+c:\users\dell\documents\visual studio 2015\Projects\Logical Gcd HomeWork\Logical Gcd HomeWork\obj\Debug\Logical Gcd HomeWork.pdb
